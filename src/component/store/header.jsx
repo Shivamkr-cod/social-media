@@ -1,5 +1,6 @@
 const Header = () => {
   return (
+    // it is the header
     <header className="p-3 text-bg-dark">
       {" "}
       <div className="container">

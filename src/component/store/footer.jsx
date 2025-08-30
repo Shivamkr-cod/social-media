@@ -38,4 +38,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer; // it is the footer
