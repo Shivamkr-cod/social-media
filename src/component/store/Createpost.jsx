@@ -24,7 +24,7 @@ const Createpost = () => {
     tagselement.current.value=""; 
 
     addpost(userid, posttitle, postbody, reaction, tags);
-  }; // shivam
+  }; // shivam kumar yadav
 
   return (
     <form className="create-post" onSubmit={handlesubmit}>
