@@ -1,0 +1,37 @@
+
+.main{
+  display: flex;
+}
+.sidebar{
+   width: 25% !important;  
+   /* height: 700px; */
+}
+.content{
+  width: 100%;
+}
+.card-style{
+  margin: 10px 20px;
+}
+.tags{
+  margin: 0px 2px;
+}
+.reaction{
+  margin:15px 0 0 0 ;
+}
+.create-post{
+width: 80%;
+margin-left: 10%;
+}
+.welcome{
+  margin: 100px 0px;
+  font-size: xx-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: chocolate;
+}
+.spinner{
+  margin: 75px 0px;
+}
+
+
+
+
